@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [SOLUTION: ](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE: ](https://your-live-site-url.com)
+- Solution URL: [SOLUTION: ](https://www.frontendmentor.io/solutions/bento-grid-main-vanilla-js-5fKXDjmg-o)
+- Live Site URL: [LIVE SITE: ](https://verakissyou17.github.io/bento-grid-main/)
 
 
 ### Built with
